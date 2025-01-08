@@ -23,5 +23,5 @@
 ![image](https://github.com/user-attachments/assets/c74a8c8e-8fe7-461d-a640-febd99988da4)
 
 ### 개발 과정
-블로그를 참조해 주세요.
-[블로그](https://hmmterestinguri.tistory.com/39)
+[블로그](https://hmmterestinguri.tistory.com/39)를 참조해 주세요.
+
